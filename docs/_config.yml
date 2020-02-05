@@ -9,6 +9,7 @@ url: ""
 twitter_username: jekyllrb
 github_username: jekyll
 theme: minima
+remote-theme: minima
 plugins:
   - jekyll-feed
 include:
