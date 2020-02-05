@@ -12,5 +12,5 @@ theme: minima
 remote-theme: minima
 plugins:
   - jekyll-feed
-include:
+exclude:
   - .jekyll-cache
