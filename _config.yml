@@ -1,0 +1,16 @@
+port: 3008
+title: 'Awesome site'
+email: twilliosetup@gmail.com
+source: ./
+destination: ./_site
+description: 'Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.'
+baseurl: /docs
+url: ""
+twitter_username: jekyllrb
+github_username: jekyll
+theme: minima
+remote-theme: minima
+plugins:
+  - jekyll-feed
+include:
+  - .jekyll-cache
